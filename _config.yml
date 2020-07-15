@@ -1,0 +1,8 @@
+title: Trend-frontend
+description: This is about my front end
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
